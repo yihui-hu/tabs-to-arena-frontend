@@ -1,6 +1,7 @@
 Design
 - [ ] Look into using table vs. grid for displaying URL previews
 - [ ] Desktop vs mobile styling (30vw vs 100vw)
+- [ ] Use Monument Grotesk
 
 Architecture
 - [ ] How to keep track of Are.na channels selected for each URL? Maybe use an object?
